@@ -59,14 +59,13 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: 'Ignite Founder Community '
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Founders build products - they also build communities. Founders are at
+      the core of all our decisions and our growing founder community is the first
+      place they look for support, network, content and promotion.  It is a cohort
+      effect on a massive scale
     button:
       enable: true
       label: Check it out
