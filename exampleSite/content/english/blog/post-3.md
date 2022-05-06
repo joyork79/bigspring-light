@@ -3,7 +3,9 @@ title: Ignite Pre-Accelerator 2022 Cohort
 date: 2020-01-31T07:07:21+00:00
 image: "/images/1__40l3zdcfpchflhra3l-pw.png"
 type: regular
-description: This is meta description
+description: Ignite North East has revealed the 15 early-stage start-ups that will
+  be participating in its 2022 pre-accelerator programme, which kicks off in early
+  February.
 
 ---
 Ignite North East has revealed the 15 early-stage start-ups that will be participating in its 2022 pre-accelerator programme, which kicks off in early February.
