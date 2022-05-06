@@ -1,7 +1,7 @@
 ---
 title: Ignite Pre-Accelerator 2022 Cohort
 date: 2020-01-31T07:07:21+00:00
-image: images/blog/post-3.jpg
+image: "/images/1__40l3zdcfpchflhra3l-pw.png"
 type: regular
 description: This is meta description
 
