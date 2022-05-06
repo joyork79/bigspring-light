@@ -32,7 +32,7 @@ There is a wide range of sectors represented in the cohort, including e-sports, 
 
 David Dunn, Digital Catapult North East & Tees Valley added “We are very excited that these 15 companies have been selected for the programme, this is a strong indicator that there is significant potential to grow the tech ecosystem in the North of Tyne. We look forward to working with Ignite to find more tech founders in the area through our outreach programme”.
 
-# **The Pre-Accelerator 2022 start-ups:**
+## **The Pre-Accelerator 2022 start-ups:**
 
 **Araymint** is on a mission to decarbonise the fashion industry, and unlock the creator economy through digitalisation including apps, games, and immersive experiences.
 
@@ -44,25 +44,25 @@ David Dunn, Digital Catapult North East & Tees Valley added “We are very excit
 
 [**Doodle**](http://doodle.ac/) helps teachers worldwide to create, share and sell high-class learning resources as a managed service.
 
-[**Grid Finder **](https://www.grid-finder.com/)is a management platform for eSports racing league owners to recruit players and manage racing series.
+[**Grid Finder**](https://www.grid-finder.com/)is a management platform for eSports racing league owners to recruit players and manage racing series.
 
-[**if.Vehicles **](http://www.ifvehicles.com/)has created a micro vehicle for the final-mile stage of logistics, reducing van fleet sizes, staff shortages and environmental issues.
+[**if.Vehicles**](http://www.ifvehicles.com/)has created a micro vehicle for the final-mile stage of logistics, reducing van fleet sizes, staff shortages and environmental issues.
 
-[**Krellian **](https://krellian.com/)is a smart building platform, built on open standards, which aims to make buildings safer and more sustainable.
+[**Krellian**](https://krellian.com/)is a smart building platform, built on open standards, which aims to make buildings safer and more sustainable.
 
 [**manyhands**](http://manyhandsapp.carrd.co/) helps charities to build the digital tools they need to scale their impact, deliver their services more efficiently and and tackle the most pressing challenges.
 
 **Nest**, co-founded by Sachin Chopra, Rashad Basharat and Callum Thomson, is a flexible rent payment platform that benefits both the landlord and the tenant.
 
-[**NxSteps **](http://www.nxsteps.co.uk/)improves outcomes and quality of life through early detection of chronic foot and lower limb related problems.
+[**NxSteps**](http://www.nxsteps.co.uk/)improves outcomes and quality of life through early detection of chronic foot and lower limb related problems.
 
-[**Personar **](https://personar.co/)improves designers’ understanding of a client’s needs by allowing you to create synthetic personas for concept testing using artificial intelligence.
+[**Personar**](https://personar.co/)improves designers’ understanding of a client’s needs by allowing you to create synthetic personas for concept testing using artificial intelligence.
 
 **PolyBox** digitalises receipts and offers dynamic reports for customers and retailers, allowing end-users to have a better customer journey.
 
 [**Sportfin**](http://www.sportfin.io/) is a digital platform to help sport clubs automate social impact reporting by digitising their day-to-day activities.
 
-[**Wobblefit **](https://wobble.fit/)uses Artificial Intelligence to help women with hormone based conditions, track and manage symptoms such as chronic pain, fatigue and anxiety.
+[**Wobblefit**](https://wobble.fit/)uses Artificial Intelligence to help women with hormone based conditions, track and manage symptoms such as chronic pain, fatigue and anxiety.
 
 If you’d like to find out more about the teams, or get involved in the programme you can get in touch by emailing [northeast@ignite.io](mailto:northeast@ignite.io) or follow us on [twitter](https://twitter.com/igniteaccel) for updates.  
   
