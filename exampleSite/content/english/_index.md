@@ -70,14 +70,12 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: Working with corporates
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: We’ve also helped large corporates like Boeing, institutions like The
+      Royal Academy of Engineering, and public bodies like Invest Northern Ireland
+      to build and deliver successful accelerator programmes.
     button:
       enable: true
       label: Check it out
