@@ -1,4 +1,6 @@
 [[params.plugins.css]]
+link = ""
+[[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
@@ -17,7 +19,7 @@ link = "plugins/slick/slick.min.js"
 [params.variables]
 black = "#000"
 body_color = "#FFFFFF"
-border_color = "#ECECEC"
+border_color = "#EB1400"
 icon_font = "Font Awesome 5 Free"
 light = "#F4F5F7"
 primary_color = "#EB1400"
