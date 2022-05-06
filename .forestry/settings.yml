@@ -80,7 +80,7 @@ sections:
 - type: document
   path: exampleSite/config/_default/languages.toml
   label: Languages
-  read_only: true
+  read_only: false
 - type: document
   path: exampleSite/config/_default/menus.en.toml
   label: Menu (en)
