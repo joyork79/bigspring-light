@@ -33,16 +33,16 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Success
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: 'For over 10 years we have run accelerator programmes, delivered community
+      focused events, built regional startup ecosystems and given international exposure
+      to more than 500 startup founders.  These entrepreneurs have taken ideas to
+      market, raised over £100m in early stage venture capital, hired thousands of
+      people and had multiple successful exits.  '
     button:
       enable: true
       label: Check it out
