@@ -1,7 +1,7 @@
 ---
 banner:
   title: 'We help you get from zero to one. '
-  image: images/banner-art.svg
+  image: "/images/ignite_collage.png"
   content: We’re a home for founders, builders, technologists and domain-experts helping
     turn your ideas into a commercial reality.
   button:
