@@ -1,6 +1,5 @@
 +++
 description = "We bring together talented people to explore ideas and create companies.  We do this through programmes, events and our community network.  All of our programmes are entrepreneur-led helping you refine the concept, build product, gain traction and create scalable businesses."
-draft = true
 subtitle = "founders"
 title = "Founders"
 
