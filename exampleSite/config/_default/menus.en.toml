@@ -1,12 +1,6 @@
 [[footer_left]]
 name = "About Us"
 url = "#"
-[[footer_left]]
-name = "Quick Start"
-url = "#"
-[[footer_left]]
-name = "Pricing"
-url = "pricing/"
 [[footer_middle]]
 name = "Pricing"
 url = "pricing/"
@@ -26,26 +20,30 @@ url = "terms-conditions/"
 name = "FAQ"
 url = "faq/"
 [[main]]
+name = "About"
+url = "about/"
+weight = "7"
+[[main]]
+name = "Corporates"
+url = "corporates"
+weight = "5"
+[[main]]
+name = "Community"
+url = "community/"
+weight = "4"
+[[main]]
+name = "Investors"
+url = "investors/"
+weight = "3"
+[[main]]
 name = "Home"
 url = "/"
 weight = 1
 [[main]]
 name = "Founders"
 url = "founders/"
-weight = ""
+weight = "2"
 [[main]]
 name = "Blog"
 url = "blog/"
-weight = 2
-[[main]]
-name = "Pricing"
-url = "pricing/"
-weight = 3
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 4
-[[main]]
-name = "FAQ"
-url = "faq/"
-weight = 5
+weight = "6"
