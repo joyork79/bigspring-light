@@ -75,7 +75,7 @@ screenshot:
 call_to_action:
   enable: false
   title: Ready to get started?
-  image: images/cta.svg
+  image: images/VCs.png
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
   button:
