@@ -9,7 +9,7 @@ banner:
     label: Contact Us
     link: contact/
 feature:
-  enable: true
+  enable: false
   title: Something You Need To Know
   feature_item:
   - name: Clean Code
